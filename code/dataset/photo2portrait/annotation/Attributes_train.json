@@ -1,0 +1,13 @@
+{
+  "age": ["Child", "Young adults", "Middle-aged adults", "Older adults", "None of the Above"],
+  "mood": ["Calm", "Excited", "Happy", "Angry", "Apathetic", "Sad", "None of the Above"],
+  "style": ["Classical Art", "Impressionism", "Modernism", "Realism", "Chinese paintings", "Japanese paintings", "Egypt, Greece and Rome", "None of the Above"],
+  "time": ["Before 1970", "After 1970", "None of the Above"],
+  "pose": ["Lying", "Sitting", "Squatting or crouching", "Standing", "Riding", "Shooting", "Sleeping", "Bowing", "Kneeling", "None of the Above"],
+  "setting": ["In the room", "In the hallway", "On the street", "At the river", "In the courtyard or a garden", "In the park", "In the cafe", "In front of a building", "At a clinic", "None of the Above"],
+  "weather": ["Rainy", "Stormy", "Sunny", "Cloudy", "Hot", "Cold", "Windy", "Foggy", "Snow", "None of the Above"],
+  "face": ["Smile", "Smirk", "Sneer", "Jaw dropped", "Stick the tongue out", "Raise the eyebrows", "Frown", "Wide-eyed", "Glance", "Wink", "Wrinkle the nose", "Long face", "Blank expression", "Quizzical expression", "None of the Above"],
+  "gender": ["Male", "Female", "None of the Above"],
+  "clothing": ["Blazer", "Coat, Jacket and Blazer", "Choir & Religious Robe", "Dressing Gown", "Dress", "Glove", "Hat", "Jean", "Legging", "Pant", "Shirt", "Sweater", "Short", "Naked", "None of the Above"],
+  "hair": ["Straight hair", "Wavy hair", "Black hair", "Blond hair", "Short hair", "None of the Above"]
+}
