@@ -1,4 +1,4 @@
-# Muse: Portrait Resources
+# [Official Release] MUSE: Illustrating Textual Attributes by Portrait Generation
 
 Resources are included in two folders: code and additional_resources, respectively. The code folder contains the codes for training and testing as well as the MUSE dataset. The additional resources contains the portrait data from wikiart and wikidata. See the Readme files in each folder for details.
 
